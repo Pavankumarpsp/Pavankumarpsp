@@ -3,7 +3,7 @@
 
 # PAVANKUMAR P S
 
-### `JAVA DEVELOPER` · `FULL-STACK ENGINEER`
+###  `SOFTWARE ENGINEER`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=6&section=header" width="100%"/>
 

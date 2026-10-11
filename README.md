@@ -3,7 +3,7 @@
 
 # PAVANKUMAR P S
 
-###  `SOFTWARE ENGINEER`
+### `SOFTWARE ENGINEER`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=6&section=header" width="100%"/>
 
@@ -35,46 +35,60 @@ and developing reliable applications with clean architecture.
 
 ---
 
-<h2>SKILL SET</h2>
+## `02 / TECHNICAL SKILLS`
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="40"><br>Java
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=spring" width="40"><br>Spring Boot
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="40"><br>React
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="40"><br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40"><br>PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40"><br>MySQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40"><br>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="40"><br>Git
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="40"><br>Docker
-    </td>
-  </tr>
-</table>
+### LANGUAGES
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark" alt="Programming languages"/>
+</p>
+
+### FRONTEND & BACKEND
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express,spring&theme=dark" alt="Frontend and backend technologies"/>
+</p>
+
+### DATABASES & CACHING
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases"/>
+</p>
+
+### DEVELOPMENT TOOLS & TESTING
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,selenium,vscode&theme=dark" alt="Development tools"/>
+</p>
+
+### AI / DATA
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" alt="AI and data tools"/>
+</p>
+
+---
+
+## ` / GITHUB ACTIVITY`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pavankumarpsp&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pavankumarpsp&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankumarpsp&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Most used languages"/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Pavankumarpsp&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" alt="GitHub streak statistics"/>
+
+</div>
+
+---
 
 
+
+
+---
 
 ## `  EXPERIENCE & LEARNING`
 

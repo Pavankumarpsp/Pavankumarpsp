@@ -20,7 +20,7 @@ Java · Spring Boot · React · PostgreSQL · Python
 
 ---
 
-## `01 / WHO I AM`
+## ` / WHO I AM`
 
 ```text
 > Computer Science graduate — DSU, Bengaluru
@@ -35,39 +35,83 @@ and developing reliable applications with clean architecture.
 
 ---
 
-## `02 / TECHNICAL SKILLS`
+## 
 
-### LANGUAGES
+<h2>SKILL SET</h2>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark" alt="Programming languages"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=spring" width="45"><br>Spring Boot
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" width="45"><br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="45"><br>HTML
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="45"><br>CSS
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="45"><br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45"><br>MySQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45"><br>MongoDB
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="35"><br>Salesforce
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45"><br>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="45"><br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/REST-API-00C7E8?style=for-the-badge" height="30"><br>REST APIs
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="45"><br>Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="45"><br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" width="45"><br>AWS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45"><br>Vercel
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="45"><br>Docker
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="45"><br>Postman
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=playwright" width="45"><br>Playwright
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="45"><br>Figma
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45"><br>VS Code
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="45"><br>Linux
+    </td>
+    <td colspan="9"></td>
+  </tr>
+</table>
 
-### FRONTEND & BACKEND
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express,spring&theme=dark" alt="Frontend and backend technologies"/>
-</p>
-
-### DATABASES & CACHING
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases"/>
-</p>
-
-### DEVELOPMENT TOOLS & TESTING
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,selenium,vscode&theme=dark" alt="Development tools"/>
-</p>
-
-### AI / DATA
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" alt="AI and data tools"/>
-</p>
-
----
 
 ## ` / GITHUB ACTIVITY`
 

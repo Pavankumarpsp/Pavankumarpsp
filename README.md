@@ -20,7 +20,7 @@ Java · Spring Boot · React · PostgreSQL · Python
 
 ---
 
-## ` / WHO I AM`
+## `  WHO I AM`
 
 ```text
 > Computer Science graduate — DSU, Bengaluru
@@ -151,7 +151,7 @@ React and PostgreSQL.
 
 ---
 
-## `06 / CONNECT`
+## ` CONNECT`
 
 <div align="center">
 

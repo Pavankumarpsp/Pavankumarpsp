@@ -74,39 +74,10 @@ and developing reliable applications with clean architecture.
   </tr>
 </table>
 
-## `02 / TECHNICAL SKILLS`
 
-### LANGUAGES
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark" alt="Programming languages"/>
-</p>
 
-### FRONTEND & BACKEND
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express,spring&theme=dark" alt="Frontend and backend technologies"/>
-</p>
-
-### DATABASES & CACHING
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases"/>
-</p>
-
-### DEVELOPMENT TOOLS & TESTING
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,selenium,vscode&theme=dark" alt="Development tools"/>
-</p>
-
-### AI / DATA
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" alt="AI and data tools"/>
-</p>
-
----
 
 ## `03 / GITHUB ACTIVITY`
 

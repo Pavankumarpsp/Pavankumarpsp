@@ -76,66 +76,7 @@ and developing reliable applications with clean architecture.
 
 
 
-
-
-
-## `03 / GITHUB ACTIVITY`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pavankumarpsp&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pavankumarpsp&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankumarpsp&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Most used languages"/>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=Pavankumarpsp&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" alt="GitHub streak statistics"/>
-
-</div>
-
----
-
-
-
-## `04 / SELECTED WORK`
-
-### `01` API Health & Performance Monitor
-
-Monitor API availability, response times, uptime and performance trends.
-
-`Java` `Spring Boot` `REST APIs` `React` `SQL`
-
-[Live Demo](https://api-monitoring-frontend.onrender.com/) ·
-[Source Repositories](https://github.com/Pavankumarpsp?tab=repositories)
-
-### `02` Driver Drowsiness Detection
-
-Real-time driver fatigue detection using computer vision and facial landmarks.
-
-`Python` `OpenCV` `Dlib`
-
-[Explore Source Code](https://github.com/Pavankumarpsp?tab=repositories)
-
-### `03` Social Media Comment Analyzer
-
-Analyze YouTube comments with sentiment analysis, toxicity classification
-and visual reports.
-
-`Python` `Streamlit` `NLP` `TF-IDF` `Scikit-learn`
-
-[Explore Source Code](https://github.com/Pavankumarpsp?tab=repositories)
-
-### `04` Money Tracker Web App
-
-Track personal transactions and organize expenses through a web application.
-
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
-
-[Explore Source Code](https://github.com/Pavankumarpsp?tab=repositories)
-
----
-
-## `05 / EXPERIENCE & LEARNING`
+## `  EXPERIENCE & LEARNING`
 
 **Target Corporation — Technical Apprentice**
 

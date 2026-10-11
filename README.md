@@ -35,6 +35,45 @@ and developing reliable applications with clean architecture.
 
 ---
 
+<h2>SKILL SET</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="40"><br>Java
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring" width="40"><br>Spring Boot
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="40"><br>React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="40"><br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40"><br>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40"><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40"><br>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="40"><br>Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="40"><br>Docker
+    </td>
+  </tr>
+</table>
+
 ## `02 / TECHNICAL SKILLS`
 
 ### LANGUAGES

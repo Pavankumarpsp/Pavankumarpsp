@@ -153,20 +153,62 @@ React and PostgreSQL.
 
 ## ` CONNECT`
 
-<div align="center">
 
-<a href="https://github.com/Pavankumarpsp">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39d353"/>
-</a>
-<a href="https://www.linkedin.com/in/pavankumar-p-s-53071a265/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353"/>
-</a>
-<a href="https://pavankumarpsportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353"/>
-</a>
-<a href="https://leetcode.com/u/pavankumarps152/">
-<img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=39d353"/>
-</a>
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="120" alt="Pixel panel"/>
+    </td>
+    <td align="center">
+      <table>
+        <tr>
+          <th>LinkedIn</th>
+          <th>X (Twitter)</th>
+          <th>Gmail</th>
+          <th>Website</th>
+          <th>GitHub</th>
+          <th>TryHackMe</th>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://www.linkedin.com/">
+              <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" alt="LinkedIn"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://x.com/">
+              <img src="https://cdn.simpleicons.org/x/FFFFFF" width="42" alt="X"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://mail.google.com/">
+              <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Gmail"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/Pavankumarpsp">
+              <img src="https://cdn.simpleicons.org/googlechrome/39D353" width="42" alt="Website"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/Pavankumarpsp">
+              <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" alt="GitHub"/>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://tryhackme.com/">
+              <img src="https://cdn.simpleicons.org/tryhackme/FF0000" width="42" alt="TryHackMe"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="120" alt="Pixel panel"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
